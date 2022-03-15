@@ -1,0 +1,18 @@
+{
+  "Name": "Зона опасности - Danger Zone",
+  "Authors": [
+    "DangerZone SCP: SL Server"
+  ],
+  "SystemLocales": [
+    "ru-BY",
+    "ru-KZ",
+    "ru-KG",
+    "ru-MD",
+    "ru-RU",
+    "ru-UA",
+    "ru"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

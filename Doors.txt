@@ -1,0 +1,10 @@
+<color=green>ОТКРЫТО</color>
+<color=#07A2FF>ЗАКРЫТО</color>
+<color=orange>ДВЕРИ\nДВИЖУТСЯ</color>
+<color=red>ЗАБЛОКИРОВАНО</color>
+<color=red>ОШИБКА</color>
+<color=red>ДОСТУП\nЗАПРЕЩЕН</color>
+<color=green>ДОСТУП\nРАЗРЕШЕН</color>
+<color=#07A2FF>ТРЕБУЕТСЯ\nКАРТА</color>
+<color=orange>ПОЖАЛУЙСТА\nПРОХОДИТЕ</color>
+<color=orange>ЗАКРЫТИЕ</color>
