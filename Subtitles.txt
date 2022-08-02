@@ -1,13 +1,13 @@
 <color=#0077ff>Мобильная Оперативная Группа Эпсилон-11</color> | <color=blue>[designation]</color> | 
 <color=red>[count] SCP</color>
-<color=red>[count] SCP</color>
-<color=red>D-CLASS / CI</color>
+<color=red>1 SCP</color>
+<color=red>КЛАСС-Д / ПХ</color>
 успешно уничтожен. <color=#f5650A>Причина уничтожения не указана</color>
 уничтожен <color=red>SCP-[scp].</color>
 успешно уничтожен <color=#f5650A>Автоматической Системой Безопасности</color>
 успешно уничтожен <color=#f5650A>Альфа Боеголовкой</color>
 успешно восстановлен | <color=#FFFF7C>Научным Персоналом</color>
-успешно восстановлен | <color=#FF8E00>Класс-Д Персоналом</color>
+успешно восстановлен | <color=#FF8E00>Расходным Материалом</color>
 успешно восстановлен | <color=#008F1E>Повстанцами Хаоса</color>
 <color=red>SCP-[scp]</color>
 успешно восстановлен | <color=#D2D4C1>Отряд восстановления неизвестен</color>
