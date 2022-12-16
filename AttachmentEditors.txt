@@ -1,0 +1,17 @@
+Кастом
+Пресет #[index]
+SAVE
+<size=30>УБРАТЬ МОДИФИКАЦИИ</size>
+Дефолт
+\n<size=40><color=white>ПРЕСЕТЫ</color></size>
+<size=80>​<color=red><mspace=1.5em>WORKSTATION</color></size>
+​<size=45><color=white><mspace=1.5em>НАЖМИТЕ НА ЭКРАН</mspace></color></size>
+<size=30><color=white><mspace=1.5em>WORKSTATION</color></size>
+<color=green><mspace=1.5em>ЗАПУСК</mspace></color>
+​<size=80><color=green>​​​​​​​​​​​​​​​​​​​​​​​​<mspace=1.5em>WORKSTATION</color></size>
+​​<size=35><color=white><mspace=1.5em>ВОЗЬМИТЕ ОРУЖИЕ В РУКИ</mspace></color></size>
+<size=30><color=white><mspace=1.5em>WORKSTATION</color></size>
+<color=red><mspace=1.5em>ОТКЛЮЧЕНИЕ</mspace></color>
+ПОКАЗАТЬ СВОДКУ
+ЗАКРЫТЬ СВОДКУ
+[Attachment] Кастомизация

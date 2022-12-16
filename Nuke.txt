@@ -1,4 +1,4 @@
-<size=180><color=red>БОЕГОЛОВКА ОТКЛЮЧЕНА</color></size>
-<color=#ffffff><size=200>ОЖИДАЙТЕ</size></color>
-<size=110><color=lime>БОЕГОЛОВКА ГОТОВА К ЗАПУСКУ</color></size>
-ДЕТОНАЦИЯ НЕИЗБЕЖНА
+<size=600><color=red>☢</color></size>
+<color=grey><size=600>☢</size></color>
+<size=600><color=#00b300>☢</color></size>
+<color=yellow>⚠️</color> ДЕТОНАЦИЯ НЕИЗБЕЖНА <color=yellow>⚠️</color>

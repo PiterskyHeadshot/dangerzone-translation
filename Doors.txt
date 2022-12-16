@@ -5,6 +5,6 @@
 <color=red><size=85>⚠</size></color>
 <color=red><size=25>✖</size></color>
 <color=green><size=25>✔</size></color>
-<color=#07A2FF><size=25>◉</size></color>
+<color=#07A2FF><size=25>🔑</size></color>
 <color=orange><size=25>◯</size></color>
-<color=orange>ЗАКРЫТИЕ</color>
+<color=orange>⛔</color>
